@@ -1,0 +1,32 @@
+*{
+    background-color: whitesmoke;
+}
+h1{
+    font-family: "Rubik";
+    margin-bottom: 25px;
+    color: #0984e3;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    font-size: 200px;
+}
+h1, h2{
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #00b894;
+    margin-bottom: 75px;
+}
+p{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: "Roboto Slab";
+    font-size: 20px;
+    line-height: 25pt;
+    color: #2d3436;
+}
+a{
+    color: #00b894;
+    text-decoration: none;
+}
